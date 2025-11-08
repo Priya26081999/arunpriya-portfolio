@@ -5,8 +5,8 @@ export default function Hero() {
   const handleDownload = () => {
    
     const link = document.createElement("a");
-    link.href = "/ArunPriya_E_Resume.pdf";
-    link.download = "ArunPriya_E_Resume.pdf";
+    link.href = "/Arunpriya.pdf";
+    link.download = "Arunpriya.pdf";
     link.click();
   };
 
