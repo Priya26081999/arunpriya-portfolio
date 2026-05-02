@@ -8,6 +8,8 @@ export default function About() {
     "JavaScript",
     "Bootstrap",
     "Tailwind CSS",
+    "Redux",
+    "Material UI (MUI)",
     "MySQL",
     "Java",
     "Spring Boot",
@@ -26,12 +28,15 @@ export default function About() {
           <h2 className="text-4xl font-bold mb-4 bg-gradient-to-r from-emerald-400 via-indigo-400 to-purple-500 bg-clip-text text-transparent">
             About Me
           </h2>
-          <p className="text-slate-300 text-lg max-w-2xl mx-auto leading-relaxed">
-            I'm <span className="font-semibold text-emerald-400">ArunPriya E</span>, 
-            a passionate Full-Stack Developer who enjoys turning ideas into interactive, 
-            user-friendly web applications. I focus on building modern, efficient, and 
-            scalable solutions using technologies like React, Java, and Spring Boot.
-          </p>
+         <p className="text-slate-300 text-lg max-w-2xl mx-auto leading-relaxed">
+  I'm <span className="font-semibold text-emerald-400">ArunPriya E</span>, 
+  a passionate Frontend and Full-Stack Developer with hands-on experience in building 
+  responsive and user-friendly web applications. I completed a paid internship as a 
+  Frontend Developer at <span className="font-semibold text-emerald-400">Stairs7Solutions Private Limited</span>, 
+  where I worked on modern UI development, reusable components, and API integration. 
+  I enjoy creating clean, scalable, and interactive applications using technologies 
+  like React.js, TypeScript, Redux, Java, and Spring Boot.
+</p>
         </div>
 
        
