@@ -17,14 +17,14 @@ export default function EducationCertifications() {
       </div>
 
      
-      <div className="grid md:grid-cols-3 gap-6">
+      <div className="grid md:grid-cols-2 gap-6">
        
         <div className="group bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-lg transition-transform transform hover:-translate-y-2 hover:shadow-emerald-500/20">
-          <div className="flex items-center gap-3 mb-4">
+          <div className="flex items-center gap-3 mb-5">
             <div className="p-3 bg-emerald-500/10 rounded-full group-hover:bg-emerald-500/20 transition-colors">
               <GraduationCap className="text-emerald-400 w-6 h-6" />
             </div>
-            <h3 className="text-lg font-semibold text-emerald-300">B.Sc. in Mathematics</h3>
+            <h4 className="text-lg font-semibold text-emerald-300">B.Sc. in Mathematics</h4>
           </div>
           <p className="text-slate-300 text-sm">
             ST. Thomas College (2020) <br />
@@ -32,12 +32,12 @@ export default function EducationCertifications() {
           </p>
         </div>
 
-        <div className="group bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-lg transition-transform transform hover:-translate-y-2 hover:shadow-emerald-500/20">
-          <div className="flex items-center gap-3 mb-4">
+        <div className="group bg-slate-900  border border-slate-800 rounded-2xl p-6 shadow-lg transition-transform transform hover:-translate-y-2 hover:shadow-emerald-500/20">
+          <div className="flex items-center gap-2">
             <div className="p-3 bg-emerald-500/10 rounded-full group-hover:bg-emerald-500/20 transition-colors">
               <Award className="text-emerald-400 w-6 h-6" />
             </div>
-            <h3 className="text-lg font-semibold text-emerald-300">Full Stack Developer (Java)</h3>
+            <h4 className="text-lg font-semibold text-emerald-300">Full Stack Developer (Java)</h4>
           </div>
           <p className="text-slate-300 text-sm">
             Besant Technologies, Chennai <br />
