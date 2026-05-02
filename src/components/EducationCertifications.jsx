@@ -32,21 +32,6 @@ export default function EducationCertifications() {
           </p>
         </div>
 
-        
-        <div className="group bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-lg transition-transform transform hover:-translate-y-2 hover:shadow-emerald-500/20">
-          <div className="flex items-center gap-3 mb-4">
-            <div className="p-3 bg-emerald-500/10 rounded-full group-hover:bg-emerald-500/20 transition-colors">
-              <GraduationCap className="text-emerald-400 w-6 h-6" />
-            </div>
-            <h3 className="text-lg font-semibold text-emerald-300">HSC & SSLC</h3>
-          </div>
-          <p className="text-slate-300 text-sm">
-            HSC — 82% (2017) <br />
-            SSLC — 90% (2015)
-          </p>
-        </div>
-
-       
         <div className="group bg-slate-900 border border-slate-800 rounded-2xl p-6 shadow-lg transition-transform transform hover:-translate-y-2 hover:shadow-emerald-500/20">
           <div className="flex items-center gap-3 mb-4">
             <div className="p-3 bg-emerald-500/10 rounded-full group-hover:bg-emerald-500/20 transition-colors">
